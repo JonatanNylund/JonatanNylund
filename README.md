@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JonatanNylund
 - 👀 I’m interested in Music and coding.
 - 🌱 I’m currently learning Swift.
-- 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me ...
 
 <!---
