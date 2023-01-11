@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JonatanNylund
 - 👀 I’m interested in Music and coding.
-- 🌱 I’m currently learning Swift.
+- 🌱 I’m currently learning Kotlin.
 - 📫 How to reach me ...
 
 <!---
