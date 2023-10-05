@@ -2,7 +2,7 @@
 - 🇸🇪 I'm from Sweden.
 - 👀 I’m interested in Music and coding.
 - 🌱 I’m currently learning Kotlin.
-- 👨‍💻 I'm a newbie at coding.
+- 👨‍💻 I'm studying Webdevelopment at school
 
 <!---
 JonatanNylund/JonatanNylund is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
